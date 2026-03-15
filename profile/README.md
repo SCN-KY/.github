@@ -6,10 +6,10 @@ Welecome to the offical github for **Starlight Community Network**!. We are a co
 
 Here are some of the key repositories we are working on right now:
 
-- **[SCN Uptime Monitor](https://github.com/Starlight-Community-Network/SCN-Status)** - A Uptime monitor and status page for SCN, powered by @upptime.
-- **[Migration Page](https://github.com/Starlight-Community-Network/SCN-Redirect)** - Our Migration page as we make the move to starlightcommmunity.network.
-- **[SCN Community Docs Project](https://github.com/Starlight-Community-Network/SCN-Docs-V2)** - Our New Community Docs.
-- **[The i n d e x](https://github.com/Starlight-Community-Network/SCN-Index)** - our "link in the bio" type page.
+- **[SCN Uptime Monitor](https://github.com/SCN-KY/SCN-Status)** - A Uptime monitor and status page for SCN, powered by @upptime.
+- **[Main Site](https://github.com/SCN-KY/scn-ky.github.io)** - our new website to replace our Wix hosted site site.
+- **[SCN Beta](https://github.com/SCN-KY/SCN-Beta)** - Early version development version of our main site.
+- **[The i n d e x](https://github.com/SCN-KY/SCN-Index)** - our "link in the bio" type page.
 - and we have more to come!!!
 
 ## How to Contribute
@@ -19,13 +19,13 @@ Here are some of the key repositories we are working on right now:
 ## Join Our Community
 
 Connect with us on:
-- [Our Site](https://starlightcommunity.network)
-- [Discord](https://discord.gg/BHz2aHuppC)
+- [Discord](https://discord.gg/3cTgjTwDKU)
 - [Pixelfed](https://pixelfed.social/StarlightGaming)
 - [Mastodon](@StarlightGaming@mastodon.online)
 - [YouTube](https://www.youtube.com/@ShimmeringCommunity)
+- [Bluesky](https://scnetwork.bsky.social/)
 > [!CAUTION]
-> We value a respectful and inclusive community. Please refer to our [Rules](https://www.starlightcommunity.network/rules).
+> We value a respectful and inclusive community. Please refer to our [Rules](https://www.starlightcommunity.network/guidelines).
   
 ## License
 
